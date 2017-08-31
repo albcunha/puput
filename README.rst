@@ -48,6 +48,7 @@ Examples of blog sites made with Puput
 * `Trespams <http://trespams.com/blog/>`_
 * `Houm Hotels <http://www.houmhotels.com/blog/>`_
 * `Body Therapy <http://bodytherapy.ru/blog/>`_
+* `Direito Amplo <https://www.direitoamplo.com.br/>`_
 
 Setup
 ~~~~~
